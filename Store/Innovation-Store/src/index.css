@@ -1,0 +1,23 @@
+:root {
+  --color-primary: #250833;
+  --color-secondary: #fff;
+  --color-font-dark: #161616;
+  --color-font-light: #f0f0f0;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+  font-size: 16px;
+}
